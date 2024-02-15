@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **js, reactJs , UI/UX**
 
-- 📫 How to reach me **mailtoawatansyadav**
+- 📫 How to reach me **mailtoawatansyadav@gmail.com**
 
 - ⚡ Fun Fact **I am introvert and observer**
 
