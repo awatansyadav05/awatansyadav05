@@ -1,7 +1,7 @@
-![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--ER0QWbWP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8poooh7vsctzgstw6ent.gif)
+![logo]()
 <h1 align="center">Hi 👋, I'm Awatans Yadav</h1>
 <h3 align="center">Crafting Engaging User Experiences with Frontend Development</h3>
-<img align="right" akt="coding" width="400" src="https://media1.tenor.com/m/wA8Gx_UqnY4AAAAC/coding.gif"> 
+<img align="right" akt="coding" width="400" src=""> 
 
 <p align="left"> <a href="https://twitter.com/yadav_awatans05" target="blank"><img src="https://img.shields.io/twitter/follow/yadav_awatans05?logo=twitter&style=for-the-badge" alt="yadav_awatans05" /></a> </p>
 
