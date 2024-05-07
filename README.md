@@ -1,23 +1,21 @@
-![logo](https://media1.tenor.com/m/ZE7zrHbdjSEAAAAC/hi.gif)
+
 <h1 align="center">Hi 👋, I'm Awatans Yadav</h1>
 <h3 align="center">Crafting Engaging User Experiences with Frontend Development</h3>
 <img align="right" akt="coding" width="400"> 
 
 <p align="left"> <a href="https://twitter.com/yadav_awatans05" target="self"><img src="https://img.shields.io/twitter/follow/yadav_awatans05?logo=twitter&style=for-the-badge" alt="yadav_awatans05" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix-clone**
-
-- 🌱 I’m currently learning **reactjs**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/awatansyadav05](https://github.com/awatansyadav05)
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Awatans-Yadav](https://www.quora.com/profile/Awatans-Yadav)
 
-- 💬 Ask me about **js, reactJs , UI/UX**
+- 💬 Ask me about **Javascript || ReactJs || NodeJs || MongoDB || UI/UX**
 
 - 📫 How to reach me **mailtoawatansyadav@gmail.com**
 
-- ⚡ Fun Fact **I am introvert and observer**
+- ⚡ Fun Fact **Push code like a boss, pull requests welcome.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
