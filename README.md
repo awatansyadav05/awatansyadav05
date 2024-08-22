@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/yadav_awatans05" target="self"><img src="https://img.shields.io/twitter/follow/yadav_awatans05?logo=twitter&style=for-the-badge" alt="yadav_awatans05" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
 - 👨‍💻 All of my projects are available at [https://github.com/awatansyadav05](https://github.com/awatansyadav05)
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Awatans-Yadav](https://www.quora.com/profile/Awatans-Yadav)
