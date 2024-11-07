@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""D:\avii_profile\484867.png""  />
+  <img height="150" src="https://imgs.search.brave.com/GLPvwUKLDOh1Yv1_2jq3TW1Ycm6LEKANSBzvDGAD2Ek/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oYWNr/ZXJub29uLmltZ2l4/Lm5ldC9obi1pbWFn/ZXMvMSp6bTVOTGpk/aEdkM1ZWVEEydS14/RVBnLmdpZj9hdXRv/PWZvcm1hdCZmaXQ9/bWF4Jnc9MTkyMA.gif"  />
 </div>
 
 ###
@@ -14,6 +14,12 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=awatansyadav05.awatansyadav05&"  />
 </div>
 
 ###
@@ -73,5 +79,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=awatansyadav05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
