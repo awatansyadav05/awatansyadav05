@@ -68,6 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F95017%2Ftypescript-icon&psig=AOvVaw1U3qierzzgOf6x9tMjKkBq&ust=1743871411814000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCI37LpvowDFQAAAAAdAAAAABAE" height="40" alt = "Typescript logo" />
 </div>
 
 ###
