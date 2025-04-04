@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on my skills and tried to improve myself everyday<br>- 📚 I'm currently learning DevOps<br>- ⚡ Ask me about JAVASCRIPT, TAILWIND CSS, NODEJS, REACTJS, BOOTSTAP, GIT EXPRESSJS, FIGMA</p>
+<p align="left">- 🔭 I’m working on my skills and tried to improve myself everyday<br>- 📚 I'm currently learning DevOps<br>- ⚡ Ask me about JAVASCRIPT, TAILWIND CSS, NODEJS, REACTJS, BOOTSTAP, GIT EXPRESSJS, FIGMA , TYPESCRIPT</p>
 
 ###
 
